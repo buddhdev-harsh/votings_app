@@ -14,3 +14,8 @@
 ### can also see the live result on that users profile <br>
   <img src="https://github.com/harshdevl/votings_app/blob/master/votersparadise/readme/pic7.png" width="1400" height="1000">
 
+### questions ask by other user will be shown to users homescreen <br>
+  <img src="https://github.com/harshdevl/votings_app/blob/master/votersparadise/readme/pic6.png" width="1400" height="1000">
+
+### questions result will be shown to user who've asked the question/created that poll
+  <img src="https://github.com/harshdevl/votings_app/blob/master/votersparadise/readme/pic5.png" width="1400" height="1000">
